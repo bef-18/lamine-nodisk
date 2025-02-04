@@ -1,4 +1,8 @@
 *.dat
 *.nsys-rep
 *.out
+pyacc_openmpi
+pyacc_openmpi_test
+mpi4py-our
+test-support/openmpi
 
